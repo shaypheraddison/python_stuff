@@ -9,8 +9,4 @@
 # print(king_of_hearts)
 # print(king_of_spades)
 
-suits = ["Hearts", "Clubs", "Diamonds", "Spades"]
-values = ["King", "Queen", "Jack", "Ace", "2", "3", "4", "5", "6", "7", "8", "9", "10"]
-for suit in suits:
-    for value in values:
-        print(f"{values} of {suit}")
+
